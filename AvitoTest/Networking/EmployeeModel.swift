@@ -1,5 +1,5 @@
 //
-//  Model.swift
+//  EmployeeModel.swift
 //  AvitoTest
 //
 //  Created by Olya Ganeva on 30.08.2021.
